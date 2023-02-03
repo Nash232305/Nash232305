@@ -11,7 +11,7 @@
 
 <!-- alinear a la derecha -->
 <p align="right">
-<img src= https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg width= 300></img></p>
+<img src= https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif width= 300></img></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
