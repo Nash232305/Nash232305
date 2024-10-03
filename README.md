@@ -1,5 +1,5 @@
 # Hengerlyn Araya Nash
-### Frontend Developer | Costa Rica
+### Enginner Computer | Costa Rica
 
 ---
 
