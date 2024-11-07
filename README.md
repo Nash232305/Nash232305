@@ -1,80 +1,67 @@
-# Hengerlyn Araya Nash
-### Enginner Computer | Costa Rica
+<div align="center">
+  <h1>Hengerlyn Araya Nash</h1>
+  <h3>Ingeniera en Computación | Costa Rica 🇨🇷</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hnash-araya)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hengerlynash26@gmail.com)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Nash232305)
+</div>
 
----
+## 💼 Perfil Profesional
+Ingeniera en Computación especializado en desarrollo frontend y backend, con sólida experiencia en la creación de aplicaciones web y APIs RESTful escalables y eficientes. Comprometido con la excelencia técnica y el aprendizaje continuo.
 
-## About Me
-I am a passionate frontend developer dedicated to building efficient and scalable user-centric applications. With a focus on continuous learning and improvement, I strive to create high-quality, innovative solutions.
+## 🛠️ Stack Tecnológico
 
----
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 🌱 Currently Learning
-- Advanced programming techniques and modern frameworks to enhance my development skills.
+### Desarrollo Backend & APIs
+![API REST](https://img.shields.io/badge/-API%20REST-009688?style=flat&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
-## 📂 Projects
-- Explore my projects on [GitHub](https://github.com/Nash232305).
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📫 Contact
-- **Email:** [hengerlynnash26@gmail.com](hengerlynash26@gmail.com)
-- **LinkedIn:** [Hengerlyn Araya Nash](www.linkedin.com/in/hnash-araya)
+### Desarrollo Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
----
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-## 🛠️ Technical Skills
+### Herramientas y Otros
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
-### Languages
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="20" height="20"/> **Android**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20"/> **C**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> **C++**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> **Java**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> **Python**
+## 📈 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nash232305&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
-### Frontend Development
-- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="20" height="20"/> **Angular**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/> **Bootstrap**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/> **CSS3**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> **JavaScript**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/> **HTML5**
+## 🌱 Proyectos Destacados
+- [Aplicación Móvil React Native](https://github.com/Nash232305/Aplicacion_movil_ReactNative) - Desarrollo de una aplicación móvil multiplataforma utilizando React Native, implementando funcionalidades modernas y mejores prácticas de desarrollo.
 
-### Version Control
-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/> **Git**
+- [Sistema de Gestión de Farmacia](https://github.com/Nash232305/Farmacia) - Sistema completo para la administración y gestión de una farmacia, incluyendo inventario, ventas y control de medicamentos. Implementado con arquitectura REST.
 
-### Design Tools
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" height="20"/> **Photoshop**
+## 📫 Contacto
+- 📧 Email: [hengerlynnash26@gmail.com](mailto:hengerlynash26@gmail.com)
+- 💼 LinkedIn: [Hengerlyn Araya Nash](www.linkedin.com/in/hnash-araya)
+- 🌐 Portfolio: [En construcción]()
 
-### Databases
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20" height="20"/> **PostgreSQL**
-- <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="20" height="20"/> **MariaDB**
-- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="20" height="20"/> **SQL Server**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> **MySQL**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="20" height="20"/> **Oracle**
-
-### Operating Systems
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/> **Linux**
-
----
-
-## 🏆 Achievements
-- **Open Source Contributions:** Actively contributing to various open-source projects.
-- **Certifications:** Include relevant industry certifications.
-- **Public Speaking:** Engaged in technical talks and webinars.
-
----
-
-## 🔗 Additional Links
-- Personal Blog: [Blog Name](https://yourbloglink.com)
-- Portfolio: [Portfolio Link](https://yourportfoliolink.com)
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nash232305&show_icons=true&theme=radical)
-
----
-
-## 🏅 Fun Fact
-I am a serious person with a dedication to detail and quality in my work.
-
-<p align="right">
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="300" alt="Coding GIF">
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="200" alt="Coding GIF" />
+</div>
