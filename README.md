@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hengerlyn Araya Nash</h1>
-  <h3>Ingeniera en Computación | Costa Rica cr</h3>
+ <h3>Ingeniera en Computación | Costa Rica <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg" alt="Bandera de Costa Rica" width="20"></h3>
+
+
+
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hnash-araya)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hengerlynash26@gmail.com)
