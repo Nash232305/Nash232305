@@ -11,7 +11,7 @@
 </div>
 
 ## 💼 Perfil Profesional
-Ingeniera en Computación especializado en desarrollo frontend y backend, con sólida experiencia en la creación de aplicaciones web y APIs RESTful escalables y eficientes. Comprometido con la excelencia técnica y el aprendizaje continuo.
+Ingeniera en Computación especializada en desarrollo frontend y backend, con sólida experiencia en la creación de aplicaciones web y APIs RESTful escalables y eficientes. Comprometida con la excelencia técnica y el aprendizaje continuo.
 
 ## 🛠️ Stack Tecnológico
 
